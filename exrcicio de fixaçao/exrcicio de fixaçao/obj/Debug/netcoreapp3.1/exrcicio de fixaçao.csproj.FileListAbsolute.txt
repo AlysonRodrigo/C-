@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.exe
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.deps.json
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.runtimeconfig.json
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.dll
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\bin\Debug\netcoreapp3.1\exrcicio de fixaçao.pdb
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.dll
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.pdb
+C:\Users\Rodrigo\Documents\c#\exrcicio de fixaçao\exrcicio de fixaçao\obj\Debug\netcoreapp3.1\exrcicio de fixaçao.genruntimeconfig.cache

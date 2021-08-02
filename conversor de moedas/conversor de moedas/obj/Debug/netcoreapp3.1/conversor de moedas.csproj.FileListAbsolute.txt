@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.exe
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.deps.json
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.runtimeconfig.json
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.dll
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\bin\Debug\netcoreapp3.1\conversor de moedas.pdb
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.dll
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.pdb
+C:\Users\Rodrigo\Documents\c#\conversor de moedas\conversor de moedas\obj\Debug\netcoreapp3.1\conversor de moedas.genruntimeconfig.cache
